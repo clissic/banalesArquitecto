@@ -1,0 +1,29 @@
+{
+  "name": "banales-arquitecto",
+  "version": "1.0.0",
+  "description": "Landing page para Banales Arquitecto",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clissic/banalesArquitecto.git"
+  },
+  "keywords": [
+    "arquitecto",
+    "landing",
+    "page",
+    "proyectos",
+    "retail",
+    "construccion",
+    "render",
+    "fotos"
+  ],
+  "author": "JPC",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/clissic/banalesArquitecto/issues"
+  },
+  "homepage": "https://github.com/clissic/banalesArquitecto#readme"
+}
