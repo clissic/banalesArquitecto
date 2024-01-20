@@ -198,21 +198,42 @@ a:hover {
 
 .team-presentation {
     background-color: #f6f7f8;
-    padding: 10vh 12vw 10vh 12vw;
+    padding: 10vh 12vw 5vh 12vw;
 }
 
 .container-button {
+    width: 10rem;
+    margin: 4vh 0;
+}
+.container-button a {
     padding: 1rem 2rem;
     background-color: black;
-    width: 10rem;
-}
-
-.container-button a {
     color: white;
     font-size: larger;
     font-weight: 200;
+    transition: .5s;
+}
+
+.container-button a:hover {
+    background-color: rgb(80, 80, 80);
+    transition: .5s;
 }
 
 .team-img {
     width: 100%;
+}
+
+.experience-div p {
+    color:#345BA9;
+    font-size: 3rem;
+    font-weight: 800;
+    height: 3rem;
+    margin-bottom: 1vh;
+}
+
+.experience-div span {
+    color:#345BA9;
+    font-size: 2rem;
+    font-weight: 600;
+    height: 2rem;
 }
