@@ -1,13 +1,14 @@
 [
     {
-        "id": "01",
+        "id": "0",
         "outstanding": false,
         "name": "Bar Olímpico",
         "author": "",
         "collaborators": "Arq. Nicolás Bañales / Arq. Agustin Fiorito / Arq. Darío Colacce",
         "photos": "",
         "type": [
-            "Restaurante"
+            "Restaurante",
+            " Retail"
         ],
         "scope": "Anteproyecto",
         "date": "2017",
@@ -21,15 +22,16 @@
         ]
     },
     {
-        "id": "02",
-        "outstanding": false,
+        "id": "1",
+        "outstanding": true,
         "name": "Reciclaje Barrio Sur",
         "author": "Arq. Nicolás Bañales / Arq. Darío Colacce",
         "collaborators": "María Belén Druillet / Arq. Martín Xifré / Ing. Carlos Colacce / Agustín Colacce",
         "photos": "",
         "type": [
             "Reforma",
-            "Vivienda"
+            " Vivienda",
+            " Residencial"
         ],
         "scope": "Anteproyecto, Proyecto ejecutivo y Ejecución de obra",
         "date": "2019",
@@ -45,15 +47,16 @@
         ]
     },
     {
-        "id": "03",
-        "outstanding": false,
+        "id": "2",
+        "outstanding": true,
         "name": "Bella Vista",
         "author": "",
         "collaborators": "Arq. María Belén Druillet / Arq. Martín Xifré",
         "photos": "",
         "type": [
             "Vivienda",
-            "Unifamiliar"
+            " Unifamiliar",
+            " Residencial"
         ],
         "scope": "Proyecto",
         "date": "2021",
@@ -72,14 +75,15 @@
         ]
     },
     {
-        "id": "04",
-        "outstanding": false,
+        "id": "3",
+        "outstanding": true,
         "name": "Café Bacacay",
         "author": "Arq. Nicolás Bañales / Arq. Darío Colacce",
         "collaborators": "Arq. María Belén Druillet / Arq. Martín Xifre",
         "photos": "Paula Varela",
         "type": [
-            "Restaurante"
+            "Restaurante",
+            " Retail"
         ],
         "scope": "Anteproyecto, Proyecto ejecutivo y Ejecución de obra",
         "date": "2018",
@@ -95,15 +99,16 @@
         ]
     },
     {
-        "id": "05",
-        "outstanding": false,
+        "id": "4",
+        "outstanding": true,
         "name": "Colonia",
         "author": "",
         "collaborators": "Arq. María Belén Druillet / Arq. Martín Xifré",
         "photos": "",
         "type": [
             "Vivienda",
-            "Unifamiliar"
+            " Unifamiliar",
+            " Residencial"
         ],
         "scope": "Proyecto",
         "date": "2021",
@@ -121,14 +126,15 @@
         ]
     },
     {
-        "id": "06",
-        "outstanding": false,
+        "id": "5",
+        "outstanding": true,
         "name": "Container Califa",
         "author": "Arq. Nicolás Bañales / Arq. Agustin Fiorito / Arq. Darío Colacce",
         "collaborators": "Ing. Carlos Colacce",
         "photos": "",
         "type": [
-            "Vivienda"
+            "Vivienda",
+            " Residencial"
         ],
         "scope": "Anteproyecto y Proyecto ejecutivo",
         "date": "2015",
@@ -142,39 +148,15 @@
         ]
     },
     {
-        "id": "07",
-        "outstanding": false,
-        "name": "Edificio Araúcho",
-        "author": "",
-        "collaborators": "Arq. María Belén Druillet / Arq. Martín Xifré",
-        "photos": "",
-        "type": [
-            "Apartamentos",
-            "Vivienda"
-        ],
-        "scope": "Proyecto",
-        "date": "2020",
-        "location": "Pocitos, Montevideo, Uruguay",
-        "area": "650",
-        "pictures": [
-            "./assets/images/edificio-araucho/pic1.jpg",
-            "./assets/images/edificio-araucho/pic2.jpg",
-            "./assets/images/edificio-araucho/pic3.jpg",
-            "./assets/images/edificio-araucho/pic4.jpg",
-            "./assets/images/edificio-araucho/pic5.jpg",
-            "./assets/images/edificio-araucho/pic6.jpg",
-            "./assets/images/edificio-araucho/pic7.jpg"
-        ]
-    },
-    {
-        "id": "08",
-        "outstanding": false,
+        "id": "6",
+        "outstanding": true,
         "name": "Fita",
         "author": "Arq. Nicolás Bañales / Arq. Agustin Fiorito / Arq. Darío Colacce",
         "collaborators": "Arq. Martín Xifre",
         "photos": "",
         "type": [
-            "Vivienda"
+            "Vivienda",
+            " Residencial"
         ],
         "scope": "Anteproyecto, Proyecto ejecutivo",
         "date": "2016",
@@ -191,15 +173,16 @@
         ]
     },
     {
-        "id": "09",
-        "outstanding": false,
+        "id": "7",
+        "outstanding": true,
         "name": "Be Ganesha",
         "author": "",
         "collaborators": "Arq. Elena Petit",
         "photos": "Aldo Lanzi",
         "type": [
             "Tienda de Ropa",
-            "Oficinas"
+            " Oficinas",
+            " Retail"
         ],
         "scope": "Proyecto y Construcción",
         "date": "2022",
@@ -214,14 +197,15 @@
         ]
     },
     {
-        "id": "10",
-        "outstanding": false,
+        "id": "8",
+        "outstanding": true,
         "name": "Julieta Carrasco",
         "author": "Arq. Nicolás Bañales / Arq. Darío Colacce",
         "collaborators": "María Belén Druillet / Arq. Martín Xifre",
         "photos": "",
         "type": [
-            "Restaurante"
+            "Restaurante",
+            " Retail"
         ],
         "scope": "Anteproyecto y Proyecto ejecutivo",
         "date": "2019 - en ejecución",
@@ -238,14 +222,15 @@
         ]
     },
     {
-        "id": "11",
+        "id": "9",
         "outstanding": false,
         "name": "Kaboa",
         "author": "Arq. Nicolás Bañales / Arq. Agustin Fiorito / Arq. Darío Colacce",
         "collaborators": "",
         "photos": "",
         "type": [
-            "Tienda de Ropa"
+            "Tienda de Ropa",
+            " Retail"
         ],
         "scope": "Anteproyecto, Proyecto ejecutivo y Ejecución de obra",
         "date": "2017",
@@ -259,7 +244,7 @@
         ]
     },
     {
-        "id": "12",
+        "id": "10",
         "outstanding": false,
         "name": "Asunción",
         "author": "Arq. Esteban Sanchez",
@@ -267,7 +252,8 @@
         "photos": "",
         "type": [
             "Vivienda",
-            "Unifamiliar"
+            " Unifamiliar",
+            " Residencial"
         ],
         "scope": "Construcción",
         "date": "2020",
@@ -284,14 +270,15 @@
         ]
     },
     {
-        "id": "13",
-        "outstanding": false,
+        "id": "11",
+        "outstanding": true,
         "name": "La Diagonal",
         "author": "Arq. María Belén Druillet",
         "collaborators": "Arq. Martín Xifré",
         "photos": "Juan Andrés Nin",
         "type": [
-            "Restaurante"
+            "Restaurante",
+            " Retail"
         ],
         "scope": "Proyecto y Construcción",
         "date": "2020",
@@ -309,7 +296,7 @@
         ]
     },
     {
-        "id": "14",
+        "id": "12",
         "outstanding": false,
         "name": "Lagomar",
         "author": "",
@@ -317,9 +304,10 @@
         "photos": "",
         "type": [
             "Reforma",
-            "Ampliación",
-            "Vivienda",
-            "Unifamiliar"
+            " Ampliación",
+            " Vivienda",
+            " Unifamiliar",
+            " Residencial"
         ],
         "scope": "Proyecto y Construcción",
         "date": "2020",
@@ -334,14 +322,15 @@
         ]
     },
     {
-        "id": "15",
+        "id": "13",
         "outstanding": false,
         "name": "Las Higueritas",
         "author": "Arq. Agustin Fiorito / Arq. Darío Colacce / Arq. Nicolas Bañales / Ing. Mariano Veiga / Ing. Leandro Veiga (V&V ingeniería)",
         "collaborators": "Arq. María Belén Druillet",
         "photos": "",
         "type": [
-            "Vivienda"
+            "Vivienda",
+            " Residencial"
         ],
         "scope": "Anteproyecto, Proyecto ejecutivo y Ejecución de obra",
         "date": "2017 - 2018",
@@ -360,14 +349,15 @@
         ]
     },
     {
-        "id": "16",
+        "id": "14",
         "outstanding": false,
         "name": "La Vanguardia",
         "author": "Arq. Nicolás Bañales / Arq. Agustin Fiorito / Arq. Darío Colacce",
         "collaborators": "Ing. Carlos Colacce / Arq. Martín Xifre",
         "photos": "Leandro Barneche",
         "type": [
-            "Restaurante"
+            "Restaurante",
+            " Retail"
         ],
         "scope": "Anteproyecto, Proyecto ejecutivo y Ejecución de obra",
         "date": "2017 / Amplicación 2021",
@@ -381,14 +371,15 @@
         ]
     },
     {
-        "id": "17",
+        "id": "15",
         "outstanding": false,
         "name": "Leyenda Montevideo",
         "author": "Arq. Nicolás Bañales / Arq. Agustin Fiorito / Arq. Darío Colacce",
         "collaborators": "Ing. Carlos Colacce / Agustín Colacce / María Belén Druillet",
         "photos": "Paula Varela",
         "type": [
-            "Restaurante"
+            "Restaurante",
+            " Retail"
         ],
         "scope": "Anteproyecto, Proyecto ejecutivo y Ejecución de obra",
         "date": "2018",
@@ -405,14 +396,15 @@
         ]
     },
     {
-        "id": "18",
+        "id": "16",
         "outstanding": false,
         "name": "Leyenda Asunción",
         "author": "Arq. Nicolás Bañales / Arq. Agustin Fiorito / Arq. Darío Colacce",
         "collaborators": "Arq. María Belén Druillet",
         "photos": "",
         "type": [
-            "Restaurante"
+            "Restaurante",
+            " Retail"
         ],
         "scope": "Anteproyecto y Proyecto ejecutivo",
         "date": "2018 - en ejecución",
@@ -429,14 +421,15 @@
         ]
     },
     {
-        "id": "19",
+        "id": "17",
         "outstanding": false,
         "name": "Leyenda Parque Villa Biarritz",
         "author": "",
         "collaborators": "Arq. María Belén Druillet / Arq. Martín Xifré",
         "photos": "",
         "type": [
-            "Restaurante"
+            "Restaurante",
+            " Retail"
         ],
         "scope": "Proyecto",
         "date": "2020",
@@ -450,14 +443,15 @@
         ]
     },
     {
-        "id": "20",
+        "id": "18",
         "outstanding": false,
         "name": "Magnum Parador",
         "author": "Arq. Esteban Sanchez",
         "collaborators": "Arq. Elena Petit / Arq. Diego Baglini / Arq Martín Xifré / Ing. Carlos Colacce",
         "photos": "Aldo Lanzi",
         "type": [
-            "Restaurante"
+            "Restaurante",
+            " Retail"
         ],
         "scope": "Proyecto y Construcción",
         "date": "2021 - 2022",
@@ -472,14 +466,15 @@
         ]
     },
     {
-        "id": "21",
+        "id": "19",
         "outstanding": false,
         "name": "Magnum Carrasco",
         "author": "Arq. Esteban Sanchez",
         "collaborators": "Arq. María Belén Druillet / Arq. Elena Petit / Arq. Diego Baglini",
         "photos": "Aldo Lanzi",
         "type": [
-            "Restaurante"
+            "Restaurante",
+            " Retail"
         ],
         "scope": "Proyecto y Construcción",
         "date": "2021",
@@ -495,14 +490,15 @@
         ]
     },
     {
-        "id": "22",
+        "id": "20",
         "outstanding": false,
         "name": "Magnum Pedragosa",
         "author": "",
         "collaborators": "Arq. María Belén Druillet / Arq. Martín Xifré",
         "photos": "Juan Andrés Nin",
         "type": [
-            "Restaurante"
+            "Restaurante",
+            " Retail"
         ],
         "scope": "Proyecto y Construcción",
         "date": "2020",
@@ -515,14 +511,15 @@
         ]
     },
     {
-        "id": "23",
+        "id": "21",
         "outstanding": false,
         "name": "Magnum Sushi",
         "author": "Arq. Nicolás Bañales / Arq. Agustin Fiorito / Arq. Darío Colacce",
         "collaborators": "Arq. Martín Xifre",
         "photos": "Javier Agustín Rojas",
         "type": [
-            "Restaurante"
+            "Restaurante",
+            " Retail"
         ],
         "scope": "Anteproyecto, Proyecto ejecutivo y Ejecución de obra",
         "date": "2017",
@@ -536,14 +533,15 @@
         ]
     },
     {
-        "id": "24",
+        "id": "22",
         "outstanding": false,
         "name": "Malvín",
         "author": "Arq. Nicolás Bañales / Arq. Agustin Fiorito / Arq. Darío Colacce",
         "collaborators": "",
         "photos": "Javier Agustín Rojas",
         "type": [
-            "Reforma"
+            "Reforma",
+            " Residencial"
         ],
         "scope": "Anteproyecto, Proyecto ejecutivo y Dirección de obra",
         "date": "2017",
@@ -559,14 +557,15 @@
         ]
     },
     {
-        "id": "25",
+        "id": "23",
         "outstanding": false,
-        "name": "Möte Nuevocentro (Grupo Disco)",
+        "name": "Möte Nuevocentro",
         "author": "Trabajo en conjunto con estudio Gualano + Gualano Arquitectos / Arq. Juan Pablo Garret (Jefe de obra) / Estudio Hofstadter (Proyecto de eléctrica) / Estudio Blende (Diseño de identidad) / Magnone-Pollio (Cálculo)",
         "collaborators": "Arq. Aldo Lanzi (vulk) / Arq. María Belén Druillet / Arq. Indara Sena",
         "photos": "Juan Andrés Nin",
         "type": [
-            "Tienda de Ropa"
+            "Tienda de Ropa",
+            " Retail"
         ],
         "scope": "",
         "date": "2020",
@@ -582,14 +581,15 @@
         ]
     },
     {
-        "id": "26",
+        "id": "24",
         "outstanding": false,
-        "name": "Möte Tres Cruces (Grupo Disco)",
+        "name": "Möte Tres Cruces",
         "author": "Trabajo en conjunto con estudio Gualano + Gualano Arquitectos / Arq. Juan Pablo Garret / Álvaro Curbelo (Jefe de obra) / Estudio Hofstadter (Proyecto de eléctrica) / Estudio Blende (Diseño de identidad) / Magnone-Pollio (Cálculo)",
         "collaborators": "Arq. Aldo Lanzi (vulk) / Arq. María Belén Druillet / Arq. Indara Sena",
         "photos": "Juan Andrés Nin",
         "type": [
-            "Tienda de Ropa"
+            "Tienda de Ropa",
+            " Retail"
         ],
         "scope": "",
         "date": "2020",
@@ -603,14 +603,15 @@
         ]
     },
     {
-        "id": "27",
+        "id": "25",
         "outstanding": false,
         "name": "Tavares",
         "author": "Arq. Nicolás Bañales / Arq. Agustin Fiorito / Arq. Darío Colacce",
         "collaborators": "Ing. Carlos Colacce",
         "photos": "",
         "type": [
-            "Vivienda"
+            "Vivienda",
+            " Residencial"
         ],
         "scope": "Anteproyecto, Proyecto ejecutivo y Ejecución de obra",
         "date": "2016 - 2017",
@@ -624,14 +625,15 @@
         ]
     },
     {
-        "id": "28",
+        "id": "26",
         "outstanding": false,
         "name": "Olivares Salteños",
         "author": "",
         "collaborators": "Arq. María Belén Druillet",
         "photos": "Juan Nin",
         "type": [
-            "Tienda de venta"
+            "Tienda de venta",
+            " Retail"
         ],
         "scope": "Proyecto y Construcción",
         "date": "2021",
@@ -645,6 +647,32 @@
             "./assets/images/tienda-olivares/pic5.jpg",
             "./assets/images/tienda-olivares/pic6.jpg",
             "./assets/images/tienda-olivares/pic7.jpg"
+        ]
+    },
+    {
+        "id": "27",
+        "outstanding": false,
+        "name": "Edificio Araúcho",
+        "author": "",
+        "collaborators": "Arq. María Belén Druillet / Arq. Martín Xifré",
+        "photos": "",
+        "type": [
+            "Apartamentos",
+            " Vivienda",
+            " Residencial"
+        ],
+        "scope": "Proyecto",
+        "date": "2020",
+        "location": "Pocitos, Montevideo, Uruguay",
+        "area": "650",
+        "pictures": [
+            "./assets/images/edificio-araucho/pic1.jpg",
+            "./assets/images/edificio-araucho/pic2.jpg",
+            "./assets/images/edificio-araucho/pic3.jpg",
+            "./assets/images/edificio-araucho/pic4.jpg",
+            "./assets/images/edificio-araucho/pic5.jpg",
+            "./assets/images/edificio-araucho/pic6.jpg",
+            "./assets/images/edificio-araucho/pic7.jpg"
         ]
     }
 ]
