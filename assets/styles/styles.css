@@ -367,9 +367,15 @@ main {
 
 /* CONTACT PAGE */
 
+.form-contact-title {
+  padding-top: 5vh;
+  margin: auto;
+  width: 65%;
+}
+
 .form-container {
-  margin: 10vh auto 10vh auto;
-  width: 60%;
+  margin: 2vh auto 10vh auto;
+  width: 65%;
   display: flex;
   flex-wrap: wrap;
   flex-direction: row;
