@@ -283,7 +283,7 @@ main {
 
 .active {
     color: black !important;
-    font-weight: 500 !important;
+    font-weight: 600 !important;
 }
 
 /* PROJECT.HTML */
@@ -330,6 +330,7 @@ main {
 }
 
 .studio-main {
+  padding-top: 10vh;
   background-color: #f6f7f8;
 }
 
@@ -342,27 +343,16 @@ main {
 }
 
 .team-presentation-div {
-  display: flex;
-  flex-direction: row;
-  row-gap: 5vw;
-  padding: 10vh 15vw 5vh 15vw;
+  padding: 10vh 10vw 5vh 10vw;
 }
 
-.team-presentation-main {
-  margin-left: 3vw;
+.team-img {
+  display: flex;
+  justify-content: end;
 }
 
-.team-presentation-div-two {
-  display: flex;
-  flex-direction: row;
-  row-gap: 5vw;
-  padding: 0vh 10vw 15vh 10vw;
-}
-
-.team-presentation-main-two {
-  display: flex;
-  align-items: center;
-  justify-content: center;
+.team-img img{
+  width: 360px;
 }
 
 /* CONTACT PAGE */
