@@ -18,7 +18,7 @@ async function fetchAllProjects() {
                 <div class="col-md-6 col-lg-4 mb-4 project-card">
                     <div class="card custom-card" data="${project.id}">
                         <img src="${"." + project.pictures[0]}" class="card-img-top" alt="Imagen 1" />
-                        <a href="#">
+                        <a href="${project.url}">
                             <div class="custom-card-overlay">
                                 <div class="card-horizontal-text">
                                     <h4 class="card-title text-uppercase">${project.name}</h4>
@@ -89,7 +89,7 @@ function filterProjectsByType(type) {
             <div class="col-md-6 col-lg-4 mb-4 project-card">
                 <div class="card custom-card" data="${project.id}">
                     <img src="${"." + project.pictures[0]}" class="card-img-top" alt="Imagen 1" />
-                    <a href="#">
+                    <a href="${project.url}">
                         <div class="custom-card-overlay">
                             <div class="card-horizontal-text">
                                 <h4 class="card-title text-uppercase">${project.name}</h4>

@@ -328,3 +328,94 @@ main {
     height: 60vh;
     background-position-y: center !important;
 }
+
+.studio-main {
+  background-color: #f6f7f8;
+}
+
+.team-title {
+  padding: 5vh 0vw 0 10vw;
+}
+
+.studio-main .div-space {
+  margin: 0 0 5vh 10vw;
+}
+
+.team-presentation-div {
+  display: flex;
+  flex-direction: row;
+  row-gap: 5vw;
+  padding: 10vh 15vw 5vh 15vw;
+}
+
+.team-presentation-main {
+  margin-left: 3vw;
+}
+
+.team-presentation-div-two {
+  display: flex;
+  flex-direction: row;
+  row-gap: 5vw;
+  padding: 0vh 10vw 15vh 10vw;
+}
+
+.team-presentation-main-two {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* CONTACT PAGE */
+
+.form-container {
+  margin: 10vh auto 10vh auto;
+  width: 60%;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  border: black solid 5px;
+}
+
+.form-container form {
+  padding: 2rem 3rem;
+}
+
+.form-container form input {
+  margin-bottom: 2rem;
+}
+
+.form-input {
+  border: none;
+  border-bottom: 1px solid black;
+  border-radius: 0;
+}
+
+textarea:focus {
+    outline: none !important;
+}
+
+.send-btn {
+  margin-top: 1.5rem;
+  letter-spacing: 4px;
+  border-radius: 0px;
+  background-color: black;
+  transition: all .5s;
+}
+
+.send-btn:hover {
+  transition: all .5s;
+  background-color:  rgb(80, 80, 80);
+}
+
+.form-contact-data {
+  background-color: black;
+  color: white;
+  padding: 1.5rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.form-input:focus {
+  outline: none !important;
+}

@@ -1,6 +1,7 @@
 [
     {
         "id": "0",
+        "url":"./bar-olimpico.html",
         "outstanding": false,
         "name": "Bar Olímpico",
         "author": "",
@@ -23,6 +24,7 @@
     },
     {
         "id": "1",
+        "url":"./bar-olimpico.html",
         "outstanding": true,
         "name": "Reciclaje Barrio Sur",
         "author": "Arq. Nicolás Bañales / Arq. Darío Colacce",
@@ -48,6 +50,7 @@
     },
     {
         "id": "2",
+        "url":"./bar-olimpico.html",
         "outstanding": true,
         "name": "Bella Vista",
         "author": "",
@@ -76,6 +79,7 @@
     },
     {
         "id": "3",
+        "url":"./bar-olimpico.html",
         "outstanding": true,
         "name": "Café Bacacay",
         "author": "Arq. Nicolás Bañales / Arq. Darío Colacce",
@@ -100,6 +104,7 @@
     },
     {
         "id": "4",
+        "url":"./bar-olimpico.html",
         "outstanding": true,
         "name": "Colonia",
         "author": "",
@@ -127,6 +132,7 @@
     },
     {
         "id": "5",
+        "url":"./bar-olimpico.html",
         "outstanding": true,
         "name": "Container Califa",
         "author": "Arq. Nicolás Bañales / Arq. Agustin Fiorito / Arq. Darío Colacce",
@@ -149,6 +155,7 @@
     },
     {
         "id": "6",
+        "url":"./bar-olimpico.html",
         "outstanding": true,
         "name": "Fita",
         "author": "Arq. Nicolás Bañales / Arq. Agustin Fiorito / Arq. Darío Colacce",
@@ -174,6 +181,7 @@
     },
     {
         "id": "7",
+        "url":"./bar-olimpico.html",
         "outstanding": true,
         "name": "Be Ganesha",
         "author": "",
@@ -198,6 +206,7 @@
     },
     {
         "id": "8",
+        "url":"./bar-olimpico.html",
         "outstanding": true,
         "name": "Julieta Carrasco",
         "author": "Arq. Nicolás Bañales / Arq. Darío Colacce",
@@ -223,6 +232,7 @@
     },
     {
         "id": "9",
+        "url":"./bar-olimpico.html",
         "outstanding": false,
         "name": "Kaboa",
         "author": "Arq. Nicolás Bañales / Arq. Agustin Fiorito / Arq. Darío Colacce",
@@ -245,6 +255,7 @@
     },
     {
         "id": "10",
+        "url":"./bar-olimpico.html",
         "outstanding": false,
         "name": "Asunción",
         "author": "Arq. Esteban Sanchez",
@@ -271,6 +282,7 @@
     },
     {
         "id": "11",
+        "url":"./bar-olimpico.html",
         "outstanding": true,
         "name": "La Diagonal",
         "author": "Arq. María Belén Druillet",
@@ -297,6 +309,7 @@
     },
     {
         "id": "12",
+        "url":"./bar-olimpico.html",
         "outstanding": false,
         "name": "Lagomar",
         "author": "",
@@ -323,6 +336,7 @@
     },
     {
         "id": "13",
+        "url":"./bar-olimpico.html",
         "outstanding": false,
         "name": "Las Higueritas",
         "author": "Arq. Agustin Fiorito / Arq. Darío Colacce / Arq. Nicolas Bañales / Ing. Mariano Veiga / Ing. Leandro Veiga (V&V ingeniería)",
@@ -350,6 +364,7 @@
     },
     {
         "id": "14",
+        "url":"./bar-olimpico.html",
         "outstanding": false,
         "name": "La Vanguardia",
         "author": "Arq. Nicolás Bañales / Arq. Agustin Fiorito / Arq. Darío Colacce",
@@ -372,6 +387,7 @@
     },
     {
         "id": "15",
+        "url":"./bar-olimpico.html",
         "outstanding": false,
         "name": "Leyenda Montevideo",
         "author": "Arq. Nicolás Bañales / Arq. Agustin Fiorito / Arq. Darío Colacce",
@@ -397,6 +413,7 @@
     },
     {
         "id": "16",
+        "url":"./bar-olimpico.html",
         "outstanding": false,
         "name": "Leyenda Asunción",
         "author": "Arq. Nicolás Bañales / Arq. Agustin Fiorito / Arq. Darío Colacce",
@@ -422,6 +439,7 @@
     },
     {
         "id": "17",
+        "url":"./bar-olimpico.html",
         "outstanding": false,
         "name": "Leyenda Parque Villa Biarritz",
         "author": "",
@@ -444,6 +462,7 @@
     },
     {
         "id": "18",
+        "url":"./bar-olimpico.html",
         "outstanding": false,
         "name": "Magnum Parador",
         "author": "Arq. Esteban Sanchez",
@@ -467,6 +486,7 @@
     },
     {
         "id": "19",
+        "url":"./bar-olimpico.html",
         "outstanding": false,
         "name": "Magnum Carrasco",
         "author": "Arq. Esteban Sanchez",
@@ -491,6 +511,7 @@
     },
     {
         "id": "20",
+        "url":"./bar-olimpico.html",
         "outstanding": false,
         "name": "Magnum Pedragosa",
         "author": "",
@@ -512,6 +533,7 @@
     },
     {
         "id": "21",
+        "url":"./bar-olimpico.html",
         "outstanding": false,
         "name": "Magnum Sushi",
         "author": "Arq. Nicolás Bañales / Arq. Agustin Fiorito / Arq. Darío Colacce",
@@ -534,6 +556,7 @@
     },
     {
         "id": "22",
+        "url":"./bar-olimpico.html",
         "outstanding": false,
         "name": "Malvín",
         "author": "Arq. Nicolás Bañales / Arq. Agustin Fiorito / Arq. Darío Colacce",
@@ -558,6 +581,7 @@
     },
     {
         "id": "23",
+        "url":"./bar-olimpico.html",
         "outstanding": false,
         "name": "Möte Nuevocentro",
         "author": "Trabajo en conjunto con estudio Gualano + Gualano Arquitectos / Arq. Juan Pablo Garret (Jefe de obra) / Estudio Hofstadter (Proyecto de eléctrica) / Estudio Blende (Diseño de identidad) / Magnone-Pollio (Cálculo)",
@@ -582,6 +606,7 @@
     },
     {
         "id": "24",
+        "url":"./bar-olimpico.html",
         "outstanding": false,
         "name": "Möte Tres Cruces",
         "author": "Trabajo en conjunto con estudio Gualano + Gualano Arquitectos / Arq. Juan Pablo Garret / Álvaro Curbelo (Jefe de obra) / Estudio Hofstadter (Proyecto de eléctrica) / Estudio Blende (Diseño de identidad) / Magnone-Pollio (Cálculo)",
@@ -604,6 +629,7 @@
     },
     {
         "id": "25",
+        "url":"./bar-olimpico.html",
         "outstanding": false,
         "name": "Tavares",
         "author": "Arq. Nicolás Bañales / Arq. Agustin Fiorito / Arq. Darío Colacce",
@@ -626,6 +652,7 @@
     },
     {
         "id": "26",
+        "url":"./bar-olimpico.html",
         "outstanding": false,
         "name": "Olivares Salteños",
         "author": "",
@@ -651,6 +678,7 @@
     },
     {
         "id": "27",
+        "url":"./bar-olimpico.html",
         "outstanding": false,
         "name": "Edificio Araúcho",
         "author": "",
