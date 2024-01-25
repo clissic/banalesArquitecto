@@ -18,7 +18,7 @@ async function fetchProjects() {
                   <div class="col-md-6 col-lg-4 mb-4">
                       <div class="card custom-card">
                           <img src="${project.pictures[0]}" class="card-img-top" alt="Imagen 1" />
-                          <a href="#">
+                          <a href="./pages/${project.url}">
                               <div class="custom-card-overlay">
                                   <div class="card-horizontal-text">
                                       <h4 class="card-title text-uppercase">${project.name}</h4>

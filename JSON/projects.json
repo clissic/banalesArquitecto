@@ -24,7 +24,7 @@
     },
     {
         "id": "1",
-        "url":"./bar-olimpico.html",
+        "url":"./reciclaje-barrio-sur.html",
         "outstanding": true,
         "name": "Reciclaje Barrio Sur",
         "author": "Arq. Nicolás Bañales / Arq. Darío Colacce",
@@ -50,7 +50,7 @@
     },
     {
         "id": "2",
-        "url":"./bar-olimpico.html",
+        "url":"./bella-vista.html",
         "outstanding": true,
         "name": "Bella Vista",
         "author": "",

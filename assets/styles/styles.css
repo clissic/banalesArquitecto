@@ -309,6 +309,10 @@ main {
     flex-basis: 500px;
 }
 
+.img-container:hover {
+  filter: brightness(.8);
+}
+
 .img-container svg {
     color: rgba(255, 255, 255, 0.2);
     width: 2rem;
@@ -353,6 +357,65 @@ main {
 
 .team-img img{
   width: 360px;
+}
+
+.proyect-data {
+  font-size: 1rem;
+  border: solid black 3vw;
+  padding: 2rem;
+  height: 35rem;
+  width: 49%;
+}
+
+@media (max-width: 767px) {
+  .proyect-data {
+      width: 95%;
+      height: 100%;
+  }
+}
+
+.row-proyect-main-img {
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: calc(-1 * var(--bs-gutter-y));
+  margin-right: calc(-.5 * var(--bs-gutter-x));
+  margin-left: calc(-.5 * var(--bs-gutter-x));
+  padding-right: 0 !important;
+  align-items: center;
+  justify-content: center;
+}
+
+.proyect-main-img-olimpico {
+  width: 49%;
+  height: 35rem;
+  background-image: url(../images/bar-olimpico/pic4.jpg);
+  background-attachment: fixed;
+  background-position-x: 0%;
+  background-position-y: 60%;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.proyect-main-img-sur {
+  width: 49%;
+  height: 35rem;
+  background-image: url(../images/barrio-sur/pic2.jpg);
+  background-attachment: fixed;
+  background-position-x: 0%;
+  background-position-y: 60%;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.proyect-main-img-bella {
+  width: 49%;
+  height: 35rem;
+  background-image: url(../images/bella-vista/pic6.jpg);
+  background-attachment: fixed;
+  background-position-x: 0%;
+  background-position-y: 60%;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 /* CONTACT PAGE */

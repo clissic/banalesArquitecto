@@ -39,8 +39,7 @@ async function fetchAllProjects() {
             `;
             allProjectsContainer.innerHTML += projectHTML;
         });
-
-        console.log(projects);
+        console.log(projects.map(project => project.name));
         return projects;
     } catch (error) {
         console.error("Error fetching data:", error);
