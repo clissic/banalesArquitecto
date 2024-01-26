@@ -79,7 +79,7 @@
     },
     {
         "id": "3",
-        "url":"./bar-olimpico.html",
+        "url":"./cafe-bacacay.html",
         "outstanding": true,
         "name": "Café Bacacay",
         "author": "Arq. Nicolás Bañales / Arq. Darío Colacce",
@@ -104,7 +104,7 @@
     },
     {
         "id": "4",
-        "url":"./bar-olimpico.html",
+        "url":"./colonia.html",
         "outstanding": true,
         "name": "Colonia",
         "author": "",
@@ -118,7 +118,7 @@
         "scope": "Proyecto",
         "date": "2021",
         "location": "Colonia del Sacramento, Uruguay",
-        "area": "90",
+        "area": "75",
         "pictures": [
             "./assets/images/casa-colonia/pic1.jpg",
             "./assets/images/casa-colonia/pic2.jpg",
@@ -132,7 +132,7 @@
     },
     {
         "id": "5",
-        "url":"./bar-olimpico.html",
+        "url":"./califa.html",
         "outstanding": true,
         "name": "Container Califa",
         "author": "Arq. Nicolás Bañales / Arq. Agustin Fiorito / Arq. Darío Colacce",
@@ -155,7 +155,7 @@
     },
     {
         "id": "6",
-        "url":"./bar-olimpico.html",
+        "url":"./fita.html",
         "outstanding": true,
         "name": "Fita",
         "author": "Arq. Nicolás Bañales / Arq. Agustin Fiorito / Arq. Darío Colacce",
@@ -181,7 +181,7 @@
     },
     {
         "id": "7",
-        "url":"./bar-olimpico.html",
+        "url":"./be-ganesha.html",
         "outstanding": true,
         "name": "Be Ganesha",
         "author": "",
@@ -206,11 +206,11 @@
     },
     {
         "id": "8",
-        "url":"./bar-olimpico.html",
+        "url":"./julieta-carrasco.html",
         "outstanding": true,
         "name": "Julieta Carrasco",
         "author": "Arq. Nicolás Bañales / Arq. Darío Colacce",
-        "collaborators": "María Belén Druillet / Arq. Martín Xifre",
+        "collaborators": "Arq. María Belén Druillet / Arq. Martín Xifre",
         "photos": "",
         "type": [
             "Restaurante",
@@ -232,7 +232,7 @@
     },
     {
         "id": "9",
-        "url":"./bar-olimpico.html",
+        "url":"./kaboa.html",
         "outstanding": false,
         "name": "Kaboa",
         "author": "Arq. Nicolás Bañales / Arq. Agustin Fiorito / Arq. Darío Colacce",
@@ -247,15 +247,15 @@
         "location": "Punta del Este, Maldonado, Uruguay",
         "area": "90",
         "pictures": [
-            "./assets/images/contencalifa/pic1.jpg",
-            "./assets/images/contencalifa/pic2.jpg",
-            "./assets/images/contencalifa/pic3.jpg",
-            "./assets/images/contencalifa/pic4.jpg"
+            "./assets/images/kaboa/pic1.jpg",
+            "./assets/images/kaboa/pic2.jpg",
+            "./assets/images/kaboa/pic3.jpg",
+            "./assets/images/kaboa/pic4.jpg"
         ]
     },
     {
         "id": "10",
-        "url":"./bar-olimpico.html",
+        "url":"./asuncion.html",
         "outstanding": false,
         "name": "Asunción",
         "author": "Arq. Esteban Sanchez",
@@ -282,7 +282,7 @@
     },
     {
         "id": "11",
-        "url":"./bar-olimpico.html",
+        "url":"./la-diagonal.html",
         "outstanding": true,
         "name": "La Diagonal",
         "author": "Arq. María Belén Druillet",
@@ -309,7 +309,7 @@
     },
     {
         "id": "12",
-        "url":"./bar-olimpico.html",
+        "url":"./lagomar.html",
         "outstanding": false,
         "name": "Lagomar",
         "author": "",
@@ -336,7 +336,7 @@
     },
     {
         "id": "13",
-        "url":"./bar-olimpico.html",
+        "url":"./las-higueritas.html",
         "outstanding": false,
         "name": "Las Higueritas",
         "author": "Arq. Agustin Fiorito / Arq. Darío Colacce / Arq. Nicolas Bañales / Ing. Mariano Veiga / Ing. Leandro Veiga (V&V ingeniería)",
@@ -358,13 +358,12 @@
             "./assets/images/las-higueritas/pic5.jpg",
             "./assets/images/las-higueritas/pic6.jpg",
             "./assets/images/las-higueritas/pic7.jpg",
-            "./assets/images/las-higueritas/pic8.jpg",
-            "./assets/images/las-higueritas/pic9.jpg"
+            "./assets/images/las-higueritas/pic8.jpg"
         ]
     },
     {
         "id": "14",
-        "url":"./bar-olimpico.html",
+        "url":"./la-vanguardia.html",
         "outstanding": false,
         "name": "La Vanguardia",
         "author": "Arq. Nicolás Bañales / Arq. Agustin Fiorito / Arq. Darío Colacce",
@@ -387,7 +386,7 @@
     },
     {
         "id": "15",
-        "url":"./bar-olimpico.html",
+        "url":"./leyenda-montevideo.html",
         "outstanding": false,
         "name": "Leyenda Montevideo",
         "author": "Arq. Nicolás Bañales / Arq. Agustin Fiorito / Arq. Darío Colacce",
@@ -413,7 +412,7 @@
     },
     {
         "id": "16",
-        "url":"./bar-olimpico.html",
+        "url":"./leyenda-asuncion.html",
         "outstanding": false,
         "name": "Leyenda Asunción",
         "author": "Arq. Nicolás Bañales / Arq. Agustin Fiorito / Arq. Darío Colacce",
@@ -439,7 +438,7 @@
     },
     {
         "id": "17",
-        "url":"./bar-olimpico.html",
+        "url":"./leyenda-parque.html",
         "outstanding": false,
         "name": "Leyenda Parque Villa Biarritz",
         "author": "",
@@ -462,7 +461,7 @@
     },
     {
         "id": "18",
-        "url":"./bar-olimpico.html",
+        "url":"./magnum-parador.html",
         "outstanding": false,
         "name": "Magnum Parador",
         "author": "Arq. Esteban Sanchez",
@@ -486,7 +485,7 @@
     },
     {
         "id": "19",
-        "url":"./bar-olimpico.html",
+        "url":"./magnum-carrasco.html",
         "outstanding": false,
         "name": "Magnum Carrasco",
         "author": "Arq. Esteban Sanchez",
@@ -511,7 +510,7 @@
     },
     {
         "id": "20",
-        "url":"./bar-olimpico.html",
+        "url":"./magnum-pedragosa.html",
         "outstanding": false,
         "name": "Magnum Pedragosa",
         "author": "",
@@ -533,7 +532,7 @@
     },
     {
         "id": "21",
-        "url":"./bar-olimpico.html",
+        "url":"./magnum-sushi.html",
         "outstanding": false,
         "name": "Magnum Sushi",
         "author": "Arq. Nicolás Bañales / Arq. Agustin Fiorito / Arq. Darío Colacce",
@@ -556,7 +555,7 @@
     },
     {
         "id": "22",
-        "url":"./bar-olimpico.html",
+        "url":"./malvin.html",
         "outstanding": false,
         "name": "Malvín",
         "author": "Arq. Nicolás Bañales / Arq. Agustin Fiorito / Arq. Darío Colacce",
@@ -581,11 +580,15 @@
     },
     {
         "id": "23",
-        "url":"./bar-olimpico.html",
+        "url":"./mote-nuevocentro.html",
         "outstanding": false,
         "name": "Möte Nuevocentro",
-        "author": "Trabajo en conjunto con estudio Gualano + Gualano Arquitectos / Arq. Juan Pablo Garret (Jefe de obra) / Estudio Hofstadter (Proyecto de eléctrica) / Estudio Blende (Diseño de identidad) / Magnone-Pollio (Cálculo)",
+        "proyect_construction:": "Trabajo en conjunto con estudio Gualano + Gualano Arquitectos",
+        "construction_manager": "Arq. Juan Pablo Garret",
         "collaborators": "Arq. Aldo Lanzi (vulk) / Arq. María Belén Druillet / Arq. Indara Sena",
+        "electrical_proyect": "Estudio Hofstadter",
+        "calculation": "Magnone-Pollio",
+        "identity-design": "Estudio Blende",
         "photos": "Juan Andrés Nin",
         "type": [
             "Tienda de Ropa",
@@ -600,17 +603,20 @@
             "./assets/images/motenvc/pic2.jpg",
             "./assets/images/motenvc/pic3.jpg",
             "./assets/images/motenvc/pic4.jpg",
-            "./assets/images/motenvc/pic5.jpg",
-            "./assets/images/motenvc/pic6.jpg"
+            "./assets/images/motenvc/pic5.jpg"
         ]
     },
     {
         "id": "24",
-        "url":"./bar-olimpico.html",
+        "url":"./mote-trescruces.html",
         "outstanding": false,
         "name": "Möte Tres Cruces",
-        "author": "Trabajo en conjunto con estudio Gualano + Gualano Arquitectos / Arq. Juan Pablo Garret / Álvaro Curbelo (Jefe de obra) / Estudio Hofstadter (Proyecto de eléctrica) / Estudio Blende (Diseño de identidad) / Magnone-Pollio (Cálculo)",
+        "proyect_construction:": "Trabajo en conjunto con estudio Gualano + Gualano Arquitectos",
+        "construction_manager": "Arq. Juan Pablo Garret",
         "collaborators": "Arq. Aldo Lanzi (vulk) / Arq. María Belén Druillet / Arq. Indara Sena",
+        "electrical_proyect": "Estudio Hofstadter",
+        "calculation": "Magnone-Pollio",
+        "identity-design": "Estudio Blende",
         "photos": "Juan Andrés Nin",
         "type": [
             "Tienda de Ropa",
@@ -629,7 +635,7 @@
     },
     {
         "id": "25",
-        "url":"./bar-olimpico.html",
+        "url":"./tavares.html",
         "outstanding": false,
         "name": "Tavares",
         "author": "Arq. Nicolás Bañales / Arq. Agustin Fiorito / Arq. Darío Colacce",
@@ -652,7 +658,7 @@
     },
     {
         "id": "26",
-        "url":"./bar-olimpico.html",
+        "url":"./olivares-s.html",
         "outstanding": false,
         "name": "Olivares Salteños",
         "author": "",
@@ -678,7 +684,7 @@
     },
     {
         "id": "27",
-        "url":"./bar-olimpico.html",
+        "url":"./edificio-araucho.html",
         "outstanding": false,
         "name": "Edificio Araúcho",
         "author": "",
@@ -699,8 +705,7 @@
             "./assets/images/edificio-araucho/pic3.jpg",
             "./assets/images/edificio-araucho/pic4.jpg",
             "./assets/images/edificio-araucho/pic5.jpg",
-            "./assets/images/edificio-araucho/pic6.jpg",
-            "./assets/images/edificio-araucho/pic7.jpg"
+            "./assets/images/edificio-araucho/pic6.jpg"
         ]
     }
 ]

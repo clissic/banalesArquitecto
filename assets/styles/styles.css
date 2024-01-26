@@ -365,6 +365,8 @@ main {
   padding: 2rem;
   height: 35rem;
   width: 49%;
+  overflow: auto;
+  scrollbar-width: 0px;
 }
 
 @media (max-width: 767px) {
@@ -385,32 +387,9 @@ main {
   justify-content: center;
 }
 
-.proyect-main-img-olimpico {
+.proyect-main-img {
   width: 49%;
   height: 35rem;
-  background-image: url(../images/bar-olimpico/pic4.jpg);
-  background-attachment: fixed;
-  background-position-x: 0%;
-  background-position-y: 60%;
-  background-repeat: no-repeat;
-  background-size: cover;
-}
-
-.proyect-main-img-sur {
-  width: 49%;
-  height: 35rem;
-  background-image: url(../images/barrio-sur/pic2.jpg);
-  background-attachment: fixed;
-  background-position-x: 0%;
-  background-position-y: 60%;
-  background-repeat: no-repeat;
-  background-size: cover;
-}
-
-.proyect-main-img-bella {
-  width: 49%;
-  height: 35rem;
-  background-image: url(../images/bella-vista/pic6.jpg);
   background-attachment: fixed;
   background-position-x: 0%;
   background-position-y: 60%;
