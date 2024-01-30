@@ -1,9 +1,9 @@
-const projectsJSON = "../JSON/projects.json";
+const projectsJSON = "../../JSON/projects.json";
 const projectContainer = document.getElementById("projects-container");
 
-async function fetchProjects() {
+async function fetchProjects(URL) {
   try {
-      const response = await fetch(projectsJSON);
+      const response = await fetch(URL);
 
       if (!response.ok) {
           throw new Error(`Error: ${response.status} - ${response.statusText}`);
@@ -47,4 +47,4 @@ async function fetchProjects() {
   }
 }
 
-await fetchProjects()
+fetchProjects(projectsJSON)

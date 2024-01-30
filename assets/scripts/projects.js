@@ -1,10 +1,10 @@
 let projects = [];
-const projectsJSON = "../JSON/projects.json";
+const projectsJSON = "../../JSON/projects.json";
 const allProjectsContainer = document.getElementById("all-projects-container");
 
-async function fetchAllProjects() {
+async function fetchAllProjects(URL) {
     try {
-        const response = await fetch("../JSON/projects.json");
+        const response = await fetch(URL);
 
         if (!response.ok) {
             throw new Error(`Error: ${response.status} - ${response.statusText}`);
@@ -45,7 +45,7 @@ async function fetchAllProjects() {
         console.error("Error fetching data:", error);
     }
 }
-fetchAllProjects()
+fetchAllProjects(projectsJSON)
 
 const filterTodos = document.getElementById("filter-todos");
 const filterRetail = document.getElementById("filter-retail");
