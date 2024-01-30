@@ -2,7 +2,7 @@
 
 @font-face {
   font-family: "Poppins-Regular";
-  src: url("../../fonts/Poppins-Regular.ttf");
+  src: url("../fonts/Poppins-Regular.ttf");
 }
 
 /* ANIMACIONES */
@@ -58,6 +58,10 @@ a:hover {
 .navbar-brand h1 {
   font-size: xx-large;
   margin: 0;
+}
+
+.main-title{
+  font-family: var(--bs-body-font-family);
 }
 
 .main-sub-title {
