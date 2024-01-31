@@ -2,12 +2,12 @@
 
 @font-face {
   font-family: "Poppins-Regular";
-  src: url("../../fonts/Poppins-Regular.ttf");
+  src: url("../fonts/Poppins-Regular.ttf");
 }
 
 @font-face {
   font-family: "Neue Haas Grotesk";
-  src: url("../../assets/fonts/NHaasGroteskTXPro-65Md.ttf")
+  src: url("../fonts/NHaasGroteskTXPro-65Md.ttf")
 }
 
 /* ANIMACIONES */
