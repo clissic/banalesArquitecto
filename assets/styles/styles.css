@@ -424,6 +424,12 @@ main {
   border: black solid 5px;
 }
 
+@media (max-width: 767px) {
+  .form-container {
+      width: 95%;
+  }
+}
+
 .form-container form {
   padding: 2rem 3rem;
 }

@@ -1,9 +1,9 @@
-const projectsJSON = "../JSON/projects.json";
+const projectsJSON = "https://raw.githubusercontent.com/clissic/banalesJSON/master/projects.json";
 const projectContainer = document.getElementById("projects-container");
 
-async function fetchProjects() {
+async function fetchProjects(URL) {
   try {
-      const response = await fetch(projectsJSON);
+      const response = await fetch(URL);
 
       if (!response.ok) {
           throw new Error(`Error: ${response.status} - ${response.statusText}`);
@@ -40,11 +40,12 @@ async function fetchProjects() {
               projectContainer.innerHTML += projectHTML;
           }
       });
-
       console.log(projects);
   } catch (error) {
       console.error("Error fetching data:", error);
   }
 }
 
-fetchProjects()
+document.addEventListener("DOMContentLoaded", async () => {
+    await fetchProjects(projectsJSON)
+})
