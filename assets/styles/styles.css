@@ -5,6 +5,11 @@
   src: url("../../fonts/Poppins-Regular.ttf");
 }
 
+@font-face {
+  font-family: "Neue Haas Grotesk";
+  src: url("../../assets/fonts/NHaasGroteskTXPro-65Md.ttf")
+}
+
 /* ANIMACIONES */
 
 @keyframes fadeIn {
@@ -60,10 +65,14 @@ a:hover {
   margin: 0;
 }
 
-.main-sub-title {
-  color: #355baa;
-  font-size: 90%;
-  display: block;
+.nav-link {
+  font-weight: 300;
+}
+
+.main-title {
+  font-family: "Neue Haas Grotesk";
+  color: #0a51cd;
+  margin: 1rem 0 1rem 0 !important;
 }
 
 .container-fluid,
@@ -268,6 +277,7 @@ main {
 .filters-menu li {
     margin: 6vh 1vw;
     cursor: pointer;
+    font-weight: 400;
 }
 
 .first-line {
