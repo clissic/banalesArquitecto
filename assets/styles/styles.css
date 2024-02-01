@@ -473,3 +473,9 @@ textarea:focus {
 .form-input:focus {
   outline: none !important;
 }
+
+.iframe-map {
+  width: 100%;
+  border: solid black 3px;
+  padding: 1rem;
+}
