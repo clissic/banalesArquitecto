@@ -60,19 +60,15 @@ a:hover {
   font-family: "Poppins-Regular", sans-serif;
 }
 
-.navbar-brand h1 {
-  font-size: xx-large;
-  margin: 0;
-}
-
 .nav-link {
   font-weight: 300;
 }
 
 .main-title {
   font-family: "Neue Haas Grotesk";
-  color: #0a51cd;
-  margin: 1rem 0 1rem 0 !important;
+  font-size: 2rem;
+  color: #345ba9;
+  margin: 1rem 0 1rem 0;
 }
 
 .container-fluid,
