@@ -25,11 +25,72 @@
   }
 }
 
+@keyframes heartBeat {
+  0%, 100% {
+      transform: scale(1);
+  }
+  50% {
+      transform: scale(1.5);
+  }
+}
+
+@keyframes transparentHeartBeat {
+  0%, 100% {
+      transform: scale(1);
+      opacity: 1;
+  }
+  50% {
+      transform: scale(1.5);
+      opacity: 0;
+  }
+}
+
+.transparentHeartBeat {
+  width: 100px;
+  height: 100px;
+  background-image: radial-gradient(circle, #25d366, #46d677, #5ed988, #73dc97, #87dea6, #88e3bf, #92e8d5, #a3ebe5, #baeffa, #d8f2ff, #f1f7ff, #ffffff);
+  border-radius: 50%;
+  animation: transparentHeartBeat 2s infinite;
+  opacity: 0.5;
+}
+
+.heartBeat {
+  width: 100px;
+  height: auto;
+  animation: heartBeat 2s infinite;
+  transform-origin: center;
+}
+
 .fade-in {
   animation: fadeIn 1.1s ease-in-out;
 }
 
 /* ESTILOS */
+
+.wp-btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 4rem;
+  height: 4rem;
+  border: none;
+  border-radius: 50%;
+  color: white;
+  background-image: linear-gradient(to right top, #25d366, #4cd77b, #68da8f, #81dda2, #98e0b3);
+  position: fixed;
+  z-index: 2;
+  bottom: 30px;
+  right: 30px;
+}
+
+.wp-btn svg {
+  width: 2rem;
+  height: 2rem;
+}
+
+.wp-btn:hover {
+  color: white !important;
+}
 
 a {
   text-decoration: none;
