@@ -1,4 +1,4 @@
-const projectsJSON = "../banalesArquitecto/assets/JSON/projects.json";
+const projectsJSON = "https://raw.githubusercontent.com/clissic/banalesJSON/master/projects.json";
 const projectContainer = document.getElementById("projects-container");
 
 async function fetchProjects(URL) {
