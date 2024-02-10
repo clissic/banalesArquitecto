@@ -1,5 +1,5 @@
 let projects = [];
-const projectsJSON = "../banalesArquitecto/assets/JSON/projects.json";
+const projectsJSON = "../assets/JSON/projects.json";
 const allProjectsContainer = document.getElementById("all-projects-container");
 
 async function fetchAllProjects(URL) {
