@@ -345,6 +345,16 @@ main {
   height: 2rem;
 }
 
+.services-card-div {
+  display: flex;
+  flex-direction: row;
+  column-gap: 1rem;
+}
+
+.services-card-div i {
+  font-size: xx-large;
+}
+
 /* PROJECTS.HTML */
 
 .filters-menu {
