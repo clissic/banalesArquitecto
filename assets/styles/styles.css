@@ -475,6 +475,14 @@ main {
   }
 }
 
+.logo-header {
+  width: 100%;
+}
+
+.navbar-brand {
+  width: 70%;
+}
+
 .row-proyect-main-img {
   display: flex;
   flex-wrap: wrap;
