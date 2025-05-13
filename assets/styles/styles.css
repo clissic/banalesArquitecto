@@ -157,6 +157,10 @@ a:hover {
   margin: 1rem 0 1rem 0;
 }
 
+.header-h {
+  height: 5vw;
+}
+
 .logo-header {
   width: 25%;
 }
@@ -364,6 +368,11 @@ main {
   font-size: 2rem;
   font-weight: 600;
   height: 2rem;
+}
+
+.services-div {
+  margin-top: 5rem;
+  padding: 0 2vw 0 2vw;
 }
 
 .services-card-div {
